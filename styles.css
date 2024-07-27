@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#note-form {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.19);
+}
+
+#note-title, #note-content {
+    width: 92.5%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #a59999;
+    border-radius: 5px ;
+}
+
+#save-note-btn {
+    background-color: #af704c;
+    color: #fff;
+   
+}
+
